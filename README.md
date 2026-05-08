@@ -84,7 +84,11 @@ The design consists of:
   - Correct NONSEQ → SEQ transition  
   - Proper address increment  
   - FIFO data transfer behavior  
-  - Handshake synchronization using HREADY  
+  - Handshake synchronization using HREADY
+ 
+  <p align="center">
+<img src="Simulation_Result.png" width="600">
+</p>
 
 ---
 
